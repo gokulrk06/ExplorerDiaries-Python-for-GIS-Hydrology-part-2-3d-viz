@@ -72,10 +72,4 @@ You'll need a Google account registered for Earth Engine access and a Google Clo
 
 **Note:** the interactive `ipyleaflet` map and Plotly 3D surface require a live Jupyter environment (classic Notebook, JupyterLab, or VS Code's notebook interface) — they won't render as static output in a plain script or non-interactive export.
 
-## Possible Extensions
-
-- Batch catchment delineation for multiple predefined pour points (e.g., DDMP-listed drainage outlets) instead of manual clicking
-- Extend flow accumulation into a stream-order classification (e.g., Strahler order) for a more structured drainage network
-- Combine catchment boundaries with the Kerala/Uttarakhand hazard layers from the companion notebooks for watershed-level risk aggregation
-- Validate delineated catchments against known/mapped watershed boundaries
 
